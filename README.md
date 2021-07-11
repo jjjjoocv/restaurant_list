@@ -47,4 +47,4 @@ npm run start
 ```
 
 5. 終端機顯示 `Express is listening on http://localhost:3000`表示成功連結本地伺服器
-請到 [http://localhost:3000](http://localhost:3000) 開始使用
+<br> 請到 [http://localhost:3000](http://localhost:3000) 開始使用
